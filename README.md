@@ -5,7 +5,8 @@ SA: I Sarah Khan, 400247943 certify that this material is my original work.
 No other person's work has been used without due acknowledgement.
 I have also not made my work available to anyone else -->
 <head>
-    <title> [Sarah Khan] [Lab 1] </title>
+    <title> [Sarah Khan] [Assignment 1] </title>
+    <br/> <i><a href = "https://ca.linkedin.com/in/sarah-khan-835729201" >Visit My LinkedIn </a></i>
 </head>
 <body>
     <style>
@@ -15,6 +16,8 @@ I have also not made my work available to anyone else -->
     </style>
     <img src="ResumeIMG.jpg" width = "150" height= "170" Sarah Khan /> &nbsp;&nbsp;&nbsp;&nbsp;  <h1> <i> Sarah Khan </i> </h1>
 
+    <h2> Personal Introduction </h2>
+    <br/> Hi I am Sarah, welcome to my Github page where you can find my Resume!<br/></p>
     <h2> Education </h2>
     <p><b>Glenview Park Secondary School<br/></b>
         Cambridge, Ontario<br/></p>
